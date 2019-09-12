@@ -12,6 +12,7 @@ S# Scikit Template
 Kristen Groom
 Spring 2019
 Final Project Section for Decision Tree/Random Forest Models
+Using Professor's Scikit template found at: http://www.caseybennett.com/teaching.html
 DSC 540 Advanced Machine Learning, DePaul University
 """
 
